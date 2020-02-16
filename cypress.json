@@ -1,0 +1,6 @@
+{
+    "dhis2_username":"system",
+    "dhis2_password":"System123",
+    "dhis2_base_url":"http://localhost:8080",
+    "dhis2_login_url":"dhis-web-commons/security/login.action"
+}
